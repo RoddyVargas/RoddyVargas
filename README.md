@@ -19,7 +19,7 @@ Soy un programador Fullstack autodidacta con pasión por la innovación. Comenc�
 [![](https://visitcount.itsvg.in/api?id=RoddyVargas&icon=4&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Developerrlv) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Developerrlv) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
